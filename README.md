@@ -1,4 +1,4 @@
-# Checkpoint2Kotlin RM 87438
+# Checkpoint2Kotlin
 
 
 ## Implementação do código:
